@@ -1,0 +1,2 @@
+# ATQF-Workshop-2022-
+A 5-day workshop starting from April 25 2022 and covers topics from the basics of finance to coding a trading strategy in python. The goal of this workshop is to give the students hands-on experience in developing a trading strategy and deploying it live along with an introduction to quantitative research. We expect that after this workshop students can explore these topics more on their own and contribute to the community. 
